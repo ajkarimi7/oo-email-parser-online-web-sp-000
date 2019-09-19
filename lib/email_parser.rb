@@ -6,3 +6,4 @@
 class EmailAddressParser
   attr_reader :emails
   
+  ddf initialize()
